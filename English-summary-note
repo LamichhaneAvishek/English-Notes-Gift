@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Class 11 English Literature Complete Summaries</title>
+
+<meta name="description" content="Complete summaries of Class 11 English Literature including short stories, poems, essays and one act plays for students.">
+
+<meta name="keywords" content="Class 11 English summary, NEB English notes, Selfish Giant summary, Civil Peace summary, Class 11 literature summaries">
+
+<style>
+
+body{
+font-family: Arial;
+margin:0;
+background:#f1f5f9;
+line-height:1.6;
+}
+
+header{
+background:#0f172a;
+color:white;
+padding:15px;
+text-align:center;
+position:sticky;
+top:0;
+}
+
+nav{
+margin-top:10px;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:8px;
+font-size:14px;
+}
+
+.search{
+text-align:center;
+margin:20px;
+}
+
+.search input{
+padding:10px;
+width:90%;
+max-width:400px;
+border-radius:6px;
+border:1px solid #ccc;
+}
+
+.container{
+width:95%;
+max-width:1000px;
+margin:auto;
+}
+
+.section-title{
+margin-top:40px;
+border-left:5px solid #2563eb;
+padding-left:10px;
+}
+
+.card{
+background:white;
+padding:20px;
+margin:20px 0;
+border-radius:10px;
+box-shadow:0 2px 8px rgba(0,0,0,0.1);
+}
+
+.card h3{
+color:#2563eb;
+}
+
+ul{
+padding-left:20px;
+}
+
+footer{
+background:#0f172a;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:40px;
+}
+
+@media(max-width:600px){
+
+.card{
+padding:15px;
+}
+
+}
+
+</style>
+
+<script>
+
+function searchContent(){
+
+let input=document.getElementById("search").value.toLowerCase();
+let cards=document.getElementsByClassName("card");
+
+for(let i=0;i<cards.length;i++){
+
+let text=cards[i].innerText.toLowerCase();
+
+if(text.includes(input)){
+cards[i].style.display="block";
+}else{
+cards[i].style.display="none";
+}
+
+}
+
+}
+
+</script>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Class 11 English Literature Summaries</h1>
+
+<nav>
+
+<a href="#stories">Stories</a>
+<a href="#poems">Poems</a>
+<a href="#essays">Essays</a>
+<a href="#plays">Plays</a>
+
+</nav>
+
+</header>
+
+<div class="search">
+<input type="text" id="search" onkeyup="searchContent()" placeholder="Search chapter...">
+</div>
+
+<div class="container">
+
+<h2 id="stories" class="section-title">Short Stories</h2>
+
+<div class="card">
+<h3>The Selfish Giant</h3>
+<ul>
+<li>A giant has a beautiful garden.</li>
+<li>Children play there every day.</li>
+<li>The giant drives the children away.</li>
+<li>He builds a wall around the garden.</li>
+<li>Spring never comes because of selfishness.</li>
+<li>The garden stays in winter.</li>
+<li>Children secretly enter the garden.</li>
+<li>The giant realizes his mistake.</li>
+<li>He becomes kind.</li>
+<li>The garden becomes beautiful again.</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>The Oval Portrait</h3>
+<ul>
+<li>A traveler stays in an old castle.</li>
+<li>He sees many paintings.</li>
+<li>One portrait attracts him.</li>
+<li>The painting shows a beautiful woman.</li>
+<li>The painter was her husband.</li>
+<li>He loved art deeply.</li>
+<li>He kept painting her.</li>
+<li>The woman became weak.</li>
+<li>The painting became perfect.</li>
+<li>The woman died.</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>God Sees the Truth but Waits</h3>
+<ul>
+<li>Aksionov is a merchant.</li>
+<li>He is wrongly accused of murder.</li>
+<li>He is sent to prison.</li>
+<li>He spends many years there.</li>
+<li>He becomes religious.</li>
+<li>The real murderer arrives.</li>
+<li>Aksionov learns the truth.</li>
+<li>He forgives the criminal.</li>
+<li>The criminal confesses.</li>
+<li>Aksionov dies peacefully.</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>The Wish</h3>
+<ul>
+<li>A boy plays alone.</li>
+<li>He imagines the carpet as danger.</li>
+<li>Black lines mean death.</li>
+<li>He walks carefully.</li>
+<li>His imagination grows.</li>
+<li>He feels fear.</li>
+<li>The game becomes serious.</li>
+<li>He tries not to touch lines.</li>
+<li>Fear increases.</li>
+<li>The story shows imagination.</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Civil Peace</h3>
+<ul>
+<li>The story occurs after a war.</li>
+<li>Jonathan survives with family.</li>
+<li>He repairs his bicycle.</li>
+<li>He earns money.</li>
+<li>He starts a business.</li>
+<li>The government pays him.</li>
+<li>Thieves steal his money.</li>
+<li>He stays calm.</li>
+<li>He remains hopeful.</li>
+<li>Life is more important than money.</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Two Little Soldiers</h3>
+<ul>
+<li>Two soldiers are friends.</li>
+<li>They visit countryside Sundays.</li>
+<li>They enjoy nature.</li>
+<li>One meets a milkmaid.</li>
+<li>He falls in love.</li>
+<li>He visits her alone.</li>
+<li>Friend becomes lonely.</li>
+<li>Friendship weakens.</li>
+<li>The lonely soldier becomes sad.</li>
+<li>He jumps into the river.</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>An Astrologer's Day</h3>
+<ul>
+<li>An astrologer works in a market.</li>
+<li>He pretends to predict futures.</li>
+<li>He actually guesses.</li>
+<li>A stranger visits him.</li>
+<li>The astrologer becomes nervous.</li>
+<li>The man was his old enemy.</li>
+<li>The astrologer lies.</li>
+<li>He says attacker is dead.</li>
+<li>The man believes him.</li>
+<li>The astrologer feels relieved.</li>
+</ul>
+</div>
+
+<h2 id="poems" class="section-title">Poems</h2>
+
+<div class="card">
+<h3>Corona Says</h3>
+<ul>
+<li>The coronavirus speaks to humans.</li>
+<li>It warns about harming nature.</li>
+<li>Humans destroy forests.</li>
+<li>Animals suffer.</li>
+<li>Nature reacts.</li>
+<li>Humans must change.</li>
+<li>Respect nature.</li>
+<li>Stop greed.</li>
+<li>Live in balance.</li>
+<li>Protect the environment.</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>A Red Red Rose</h3>
+<ul>
+<li>The poet expresses love.</li>
+<li>Love is like a red rose.</li>
+<li>It is fresh and beautiful.</li>
+<li>Love is like sweet music.</li>
+<li>The poet promises forever love.</li>
+<li>Distance cannot change it.</li>
+<li>He will return.</li>
+<li>Time cannot destroy love.</li>
+<li>The poem celebrates romance.</li>
+<li>Love is eternal.</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>All the World's a Stage</h3>
+<ul>
+<li>The world is compared to a stage.</li>
+<li>People are actors.</li>
+<li>Life has seven stages.</li>
+<li>Infant stage.</li>
+<li>Schoolboy stage.</li>
+<li>Lover stage.</li>
+<li>Soldier stage.</li>
+<li>Justice stage.</li>
+<li>Old age stage.</li>
+<li>Life ends.</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Who Are You Little I</h3>
+<ul>
+<li>A child watches the sunset.</li>
+<li>The sky is beautiful.</li>
+<li>The child feels amazed.</li>
+<li>The world feels magical.</li>
+<li>The child feels small.</li>
+<li>The universe is big.</li>
+<li>Nature is wonderful.</li>
+<li>The moment feels special.</li>
+<li>Curiosity grows.</li>
+<li>The poem shows innocence.</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>The Gift in Wartime</h3>
+<ul>
+<li>The poem describes war.</li>
+<li>A soldier dies.</li>
+<li>His body is destroyed.</li>
+<li>His body parts are sent home.</li>
+<li>His wife receives them.</li>
+<li>She feels deep sadness.</li>
+<li>War destroys families.</li>
+<li>People suffer loss.</li>
+<li>War is cruel.</li>
+<li>Peace is important.</li>
+</ul>
+</div>
+
+<h2 id="essays" class="section-title">Essays</h2>
+
+<div class="card">
+<h3>Sharing Tradition</h3>
+<ul>
+<li>Traditions connect people.</li>
+<li>They show identity.</li>
+<li>They link ancestors.</li>
+<li>Culture includes art and stories.</li>
+<li>Elders must teach youth.</li>
+<li>Culture must be preserved.</li>
+<li>Traditions strengthen communities.</li>
+<li>Sharing keeps culture alive.</li>
+<li>Respect traditions.</li>
+<li>Protect cultural heritage.</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>How to Live Before You Die</h3>
+<ul>
+<li>Based on Steve Jobs speech.</li>
+<li>Life lessons from experience.</li>
+<li>Failure teaches success.</li>
+<li>Follow your passion.</li>
+<li>Life is short.</li>
+<li>Do not fear mistakes.</li>
+<li>Work hard.</li>
+<li>Trust yourself.</li>
+<li>Listen to your heart.</li>
+<li>Live fully.</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>What I Require from Life</h3>
+<ul>
+<li>Life should be adventurous.</li>
+<li>Knowledge is important.</li>
+<li>Learning never stops.</li>
+<li>Creativity matters.</li>
+<li>Challenges are good.</li>
+<li>Boring life is not fulfilling.</li>
+<li>Curiosity grows knowledge.</li>
+<li>Explore ideas.</li>
+<li>Use imagination.</li>
+<li>Life should be exciting.</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>What Is Poverty</h3>
+<ul>
+<li>Poverty means hunger.</li>
+<li>Poor people suffer daily.</li>
+<li>They lack food.</li>
+<li>Clothes are poor.</li>
+<li>Homes are uncomfortable.</li>
+<li>Poverty brings shame.</li>
+<li>Children suffer most.</li>
+<li>Society ignores them.</li>
+<li>Poverty harms mind and body.</li>
+<li>The essay shows harsh reality.</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Scientific Research Is a Token of Humankind's Survival</h3>
+<ul>
+<li>Science helps humanity.</li>
+<li>Research solves problems.</li>
+<li>Technology improves life.</li>
+<li>Medicine saves lives.</li>
+<li>Scientists study nature.</li>
+<li>New discoveries help progress.</li>
+<li>Research prevents disasters.</li>
+<li>Knowledge is power.</li>
+<li>Countries must support science.</li>
+<li>Human survival depends on research.</li>
+</ul>
+</div>
+
+<h2 id="plays" class="section-title">One Act Plays</h2>
+
+<div class="card">
+<h3>Trifles</h3>
+<ul>
+<li>John Wright is murdered.</li>
+<li>Police investigate.</li>
+<li>Two women observe clues.</li>
+<li>Men ignore details.</li>
+<li>Women notice a dead bird.</li>
+<li>The bird belonged to Mrs Wright.</li>
+<li>Her husband killed it.</li>
+<li>She killed him.</li>
+<li>Years of suffering caused it.</li>
+<li>Women hide the evidence.</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>A Sunny Morning</h3>
+<ul>
+<li>The play occurs in Madrid.</li>
+<li>Two old people meet.</li>
+<li>They argue at first.</li>
+<li>They recognize each other.</li>
+<li>They were lovers.</li>
+<li>Love ended long ago.</li>
+<li>They are now lonely.</li>
+<li>They remember their past.</li>
+<li>They imagine a happy story.</li>
+<li>The play shows nostalgia.</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Refund</h3>
+<ul>
+<li>Wasserkopf returns to school.</li>
+<li>He wants his money back.</li>
+<li>Teachers test him again.</li>
+<li>He answers poorly.</li>
+<li>Teachers help him secretly.</li>
+<li>They avoid refund.</li>
+<li>He passes exam.</li>
+<li>No refund is given.</li>
+<li>The situation is humorous.</li>
+<li>The play criticizes education.</li>
+</ul>
+</div>
+
+</div>
+
+<footer>
+<p>Class 11 English Literature Notes Website</p>
+</footer>
+
+</body>
+</html>
